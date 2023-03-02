@@ -1,1 +1,1 @@
-# CPE342-Java-Programming-Language
+# CPE342 Java Programming Language
